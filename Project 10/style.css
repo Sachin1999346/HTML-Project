@@ -1,0 +1,30 @@
+
+.main
+{
+    background-color: aquamarine;
+    margin-left: 40px;
+    margin-right: 500px;
+    height: 500px;
+
+}
+#file
+{
+    color: white;
+    font-size: 25px;
+
+}
+/* .message
+{
+    height: 70px;
+    width: 80px;
+    background-color: white;
+} */
+.ff
+{
+    height: 25px;
+    width: 300px;
+    background-color:aquamarine;
+    padding: 30px;
+    border: 2px solid white;
+
+}

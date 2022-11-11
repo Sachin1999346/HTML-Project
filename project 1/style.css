@@ -1,0 +1,20 @@
+.alpha{
+    color:#151D3B;
+    font-family: 'Updock', cursive;
+    text-align: center;
+    font-size: 40px;
+
+}
+.beta{
+    color: black;
+    /* font-family: 'Rye', cursive; */
+    font-family: 'Playball', cursive;
+    font-size: 30px;
+}
+ body{
+    background-image: url(./images/R.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+    
+} 

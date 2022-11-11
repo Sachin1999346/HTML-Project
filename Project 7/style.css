@@ -1,0 +1,111 @@
+.outer
+{
+    height: 700px;
+    width: 900px;
+    margin: 200px auto;
+    /* padding: 10px; */
+    box-sizing: border-box;
+    overflow-y: scroll;
+
+}
+.inner{
+    height: 700px;
+    width: 496px;
+    display: inline-block;
+    justify-content: center;
+    /* background-color: aquamarine; */
+    box-sizing: border-box;
+}
+ #box1
+{
+    height: 700px;
+    width: 400px;
+    background-color: blue;
+    box-sizing: border-box;
+    padding: 10px;
+    /* margin-left: 30px; */
+    /* margin-top: 20px; */
+    font-size: 30px;
+    
+} 
+#box2
+{
+    height: 700px;
+    width: 500px;
+    position: relative;
+    left: 400px;
+    bottom: 701px;
+}
+.box11
+{
+   margin: 30px;
+   padding: 10px;
+
+}
+#login
+{
+    font-size: 40px;
+}
+#src
+{
+    height: 167px;
+    width: 281px;
+    margin-left: 0px;
+    margin-top: 169px;
+}
+.signin
+{
+    margin-left: 30px;
+    margin-top: 20px;
+    /* background-color: rgb(128, 119, 119); */
+    height: 663px;
+    width: 438px;
+    border: none;
+    
+}
+#name
+{
+    height: 34px;
+    width: 430px;
+    border: none;
+    outline: 0px;
+    border-width: 4px;
+    border-bottom-color: blue;
+    border-bottom-style: solid;
+    size: 50px;
+    font-size: 20px;
+}
+#forget{
+    height: 20px;
+    background-color: brown;
+    width: 20px;
+}
+.login1
+{
+    height: 60px;
+    width: 428px;
+    background-color: orangered;
+    font-size: 30px;
+}
+.or{
+    font-size:30px;
+    margin-left: 191px;
+}
+.login2
+{   color: blue;
+    height: 60px;
+    width: 428px;
+    /* background-color: orangered; */
+    font-size: 30px;
+    border: none;
+}
+#last
+{
+ font-size: 25px;
+color: blue;
+}
+.use
+{
+    color: blue;
+}
+ 
